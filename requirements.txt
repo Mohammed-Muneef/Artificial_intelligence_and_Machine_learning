@@ -1,5 +1,0 @@
-ultralytics
-pyttsx3
-opencv-python
-pandas
-numpy
